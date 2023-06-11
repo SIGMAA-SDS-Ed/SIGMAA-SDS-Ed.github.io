@@ -1,0 +1,16 @@
+main:
+  - title: Home
+    url: index
+    description: The SIGMAA main page
+  - title: Charter
+    url: charter
+    description: The SIGMAA Charter
+  - title: Officers
+    url: officers
+    description: Contact information for the SIGMAA Officers
+  - title: Communications
+    url: communications
+    description: Meeting minutes and other documents
+  - title: Links
+    url: links
+    description: Links to useful resources

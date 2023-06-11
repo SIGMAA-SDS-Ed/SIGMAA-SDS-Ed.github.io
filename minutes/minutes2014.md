@@ -1,0 +1,64 @@
+---
+title: Statistics Education Business Meeting Minutes 2014
+permalink: /minutes/minutes2014
+---
+
+# SIGMAA Stat Ed – Business Meeting, January 17, 2014
+
+- Welcome – Scott Alberts, Chair
+  - Why do we have a full dinner? One of changes this year to the way MAA manages SIGMAAs work is that we can no longer carry surpluses forward, so we are eating the surplus!
+  - Introductions of attendees.
+  - Introduction/description of SIGMAA Stat Ed for new attendees.
+  - Introduction of incoming officers – Patti Lock (Chair-Elect), Stacey Hancock (Treasurer), Randy Prium (Chair), Judith Canner (Secretary - continuing), Todd Iverson (Webmaster - continuing)
+  - Thanks to retiring officers – Andy Zieffler (Past-Chair), Kim Roth (Treasurer)
+  - Approval of last year's minutes.
+- Treasurer's Report – Kim Roth
+  - We are no longer in charge of our own budget. Our best guess is that we have between 240-260 members, and we get $10 of the $12 membership fee from each. MAA will cover any expenses that are not 'unusual'.
+  - Treasurer's job is now really just filling out reimbursement forms.
+  - We will wait until transitioning off having a surplus to discuss whether or not to combine Treasurer and Secretary positions.
+  - Usually we would approve a budget, but no need now that MAA has taken over our budget.
+  - We should start bringing in an invited speaker since that is not an 'unusual' expense.
+- Announcement - Andy Zieffler
+  - Announcement that McGraw-Hill discontinued Tinkerplots. Bill Pegram and Cliff Konold are trying to buy back their intellectual property rights. McGraw-Hill has agreed to give free licenses for courses this semester only. Andy will send email to our membership list (and isostat and other lists) with information for who to email about getting Tinkerplots.
+  - Since Tinkerplots is linked through internet, it will stop working in a year if you already have it installed.
+- Other Reports and Upcoming Initiatives - Scott Alberts
+  - SIGMAA-Stat-Ed just finishing being reviewed. We will receive draft soon. All good news.
+  - Things to think about:
+    - Reviewing executive positions (changing leadership structure):
+      - combine treasurer and secretary positions
+      - need more members on executive committee (mentioned in review)
+      - chair having four-year position (chair-elect one year, chair two years, past chair one year)
+      - add 'awards chair'
+    - Clarifying review process for selecting Hogg award – Email 'spirit of the award' description to math departments. Purpose is two-fold: (1) recognize newer people to statistics that may have come from math, (2) recognizing people who have 'grown'.
+    - Adding invited speaker to JMM program, especially ones that would attract people outside of our circle.
+  - MAA is celebrating centennial in 2015, and many sections have been encouraged to having an event (though SIGMAAs were not really included in process). But if we want to do something, we should submit ideas now. Ideas?
+    - Steve Stigler from University of Chicago might be good speaker on the history of statistics.
+    - Create document on the overlap between stats and math history.
+    - Future history of Statistics – envisioning what the next 100 years of statistics might be like.
+    - History of statistics education.
+    - 'Challenges and opportunities for the next 25 years in statistics' – panel at JSM. Could also do one looking forward.
+    - Scott will send out solicitation to membership list asking for volunteers to think about an event.
+  - Mathfest – ideas for events or panel discussions/programming at Mathfest 2015?
+- Discussion – Scott Alberts
+  - Should we promote Statistics Reform more widely? If so, how? How can we get colleagues who are not trained in statistics but are teaching statistics on board?
+    - Workshop or session at Mathfest specifically designed for mathematicians who are teaching statistics.
+      - We had a panel of mathematicians that crossed over to statistics at the last Mathfest. Should keep this panel going.
+    - Short course for Project NeXT group – good group to reach since they are at the beginning of their career. Many might be 'stuck' teaching statistics in a math dept if no one else wants to.
+    - Speak to "Chair's Workshop" at JMM.
+    - Being more pro-active to get people to join our group – at least one person from every school. Goal – get someone from every Math Dept (that teach statistics) to be involved in statistics education.
+    - MAA Minicourse – we had 3 for JMM, but none scheduled for Mathfest. (Too late to schedule now, but could think about for Mathfest 2015.) Beginning course – overview of what to teach in an intro stat course.
+      - Contact a local statistician whereven Mathfest will be held (who doesn't have to travel), but could do one-day workshop.
+    - Advocate towards training people who are teaching Common Core, and seeing it through. Make sure we have contacts with Math Ed people. Reach out to local high school communities.
+    - Looking at assessment tests being developed and make sure they correctly reflect statistics in the curriculum.
+    - Session (rather than a minicourse) on beginning intro stat curriculum for people new to teaching intro stat – 'Mini workshop' = 1 hour and 20 minutes at JMM. Eliminate need to sign up in advance and pay money. Specifically market it to people relatively new to teaching intro stat or want to revise the way they're teaching intro stat.
+    - Need to think very creatively about getting materials out to high school teachers. Not many teachers come to meetings and have little time and little money. Think about ways to offer continuing education – online resources? Critical for K-12, intro stat level college teachers, and community colleges.
+      - High school teachers are required to do continuing ed, but get more points for doing it in-state through their state teacher's societies.
+      - Woodrow Wilson National Fellowship Foundation ran workshops of four high school teachers trained in statistics who went on a summer tour doing a one-week workshop on how to use statistics in all high school math classes. Get funding so teachers don't have to pay.
+- Announcement - John McKenzie
+  - CUTM Meeting this evening Room 347 – constructing guidelines for all math departments on curriculum. Important to pay attention to. If you're a math major, a possible course you should take is 'applied statistics' – but this idea is being ignored. Need to put more pressure on them to put statistics into math major curriculum
+- Awards – Scott Alberts
+  - The Dex Whittinghill Award for Best Statistics Education Contributed Paper at JMM 2013 was awarded to Kari Lock Morgan from Duke University.
+  - The Robert V. Hogg Award for Excellence in Teaching Statistics was awarded to Johanna Hardin from Pomona College, introduced by Gizem Karaali.
+- Announced upcoming events in statistics education: ICOTS9, E-COTS 2014, 2014 MathFest, 2014 PREP Workshops of MAA, CAUSE Webinars, 2014 JSM, 2015 JMM.
+- Andy Zieffler and Scott Alberts handed out door prizes.
+- Adjourn and continued socializing.
