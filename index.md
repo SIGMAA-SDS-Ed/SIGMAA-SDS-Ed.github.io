@@ -14,7 +14,7 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
-The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually at MathFest. Nomination packets should be submitted to Phil Yates, Chair of the Award Committee, at [PYATES@depaul.edu](mailto:PYATES@depaul.edu).
+The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually at MathFest. Nomination packets should be submitted to Phil Yates, Chair of the Award Committee, at [Nick.Gorgievski@nichols.edu](mailto:Nick.Gorgievski@nichols.edu).
 
 The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is September 30; nominations are held in consideration for 3 years, but updated nomination packets are encouraged.
 
