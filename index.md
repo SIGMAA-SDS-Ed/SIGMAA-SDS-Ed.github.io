@@ -4,6 +4,11 @@
 
 layout: home
 title: Home
+header:
+  image: /assets/luke-chesser-JKUTrJ4vK00-unsplash.jpg
+  overlay_image: /assets/luke-chesser-JKUTrJ4vK00-unsplash.jpg
+  overlay_filter: 0.4
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 ## Welcome
