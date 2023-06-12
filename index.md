@@ -12,6 +12,10 @@ The purpose of this SIGMAA is to facilitate the exchange of ideas about teaching
 
 The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill III Award at the SIGMAA business meeting at MathFest annually.
 
+## News
+
+Our annual business meeting will be taking place at MathFest on Friday, August 5, 2023 at 6 PM.
+
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
 The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually at MathFest. Nomination packets should be submitted to Phil Yates, Chair of the Award Committee, at [Nick.Gorgievski@nichols.edu](mailto:Nick.Gorgievski@nichols.edu).
@@ -21,11 +25,11 @@ The winner of the Hogg Award will have been teaching introductory statistics at 
 - [Award Nomination Information](https://drive.google.com/file/d/18KjIFQwXW9TRJPSc1vuq1PpY4Iif2Cxg/view?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
 
-## Awarded at the 2021 JMM
+## Awards
 
-Congratulations to the 2021 Hogg Award winner Mine Çetinkaya-Rundel!
+Congratulations to Dr. Kim Roth from Juniata College for receiving the 2022 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at Mathfest 2022!
 
-The Dexter C. Whittinghill III award for best presentation at the 2020 JMM went to Albert Schueller!
+Congratulations to Dr. Diana Skrzydlo from the University of Waterloo for receiving the 2022 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
 
 [Past Award Winners](/awards)
 

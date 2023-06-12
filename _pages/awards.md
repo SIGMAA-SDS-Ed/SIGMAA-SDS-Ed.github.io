@@ -13,6 +13,7 @@ The award is given yearly at the SIGMAA Stat Ed business meeting at the Joint Ma
 
 ### Past Winners
 
+- 2022: Diana Skrzydlo
 - 2021: Mine Çetinkaya-Rundel
 - 2020: Talithia Williams
 - 2019: Kimberly A. Roth
@@ -29,6 +30,7 @@ Awarded yearly at the SIGMAA Stat Ed business meeting at the Joint Mathematics M
 
 #### Past Winners
 
+- 2022: Kim Roth
 - 2020: Albert Schueller
 - 2019: David Taylor and Adam Childers
 - 2018: Alana Unfried
