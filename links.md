@@ -12,3 +12,4 @@ title: Links
 - [ASA Endorsement of the Guidelines](http://www07.homepage.villanova.edu/michael.posner/sigmaastated/ASAendorsement2.html) and [Prior ASA Response (to the earlier guidelines)](http://www.maa.org/guidelines/asa_response.html)
 - [Other Resources for Statistics Teachers](http://www.pasles.org/resource.html)
 - [SCORE network](https://scorenetwork.org) for developing and disseminating sports content for outreach, research, and education in statistics and data science
+- [Scatterplot](https://www.tandfonline.com/journals/usca20) is an MAA journal of Data Science. You can find out more by email to [scatterplot@maa.org](mailto:scatterplot@maa.org)
