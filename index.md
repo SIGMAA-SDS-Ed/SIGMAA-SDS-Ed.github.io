@@ -19,13 +19,13 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
-Our annual business meeting will be taking place at MathFest on Friday, August 5, 2023 at 6 PM.
+We will be holding elections for Chair-Elect (1 year) and Secretary-Treasurer (2 years, elected in even years) in the Fall 2023 – please consider running for office or nominating a colleague. New terms begin January 1.
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
 The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually at MathFest. Nomination packets should be submitted to Nick Gorgievski, Chair of the Award Committee, at [Nick.Gorgievski@nichols.edu](mailto:Nick.Gorgievski@nichols.edu).
 
-The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is September 30; nominations are held in consideration for 3 years, but updated nomination packets are encouraged.
+The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged.
 
 - [Award Nomination Information](https://drive.google.com/file/d/18KjIFQwXW9TRJPSc1vuq1PpY4Iif2Cxg/view?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
@@ -38,11 +38,11 @@ Congratulations to Dr. Diana Skrzydlo from the University of Waterloo for receiv
 
 [Past Award Winners](/awards)
 
-## Future Conferences of Interest to SIGMAA Members
+## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
-- [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/), January 4-7, 2023, Boston MA
-- [MathFest](https://www.maa.org/meetings/mathfest), August 2-5, 2023, Tampa, FL
 - [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/), August 5-10, 2023, Toronto, Ontario, Canada
-- [USCOTS](https://causeweb.org/cause/uscots/uscots23), June 1-3, 2023, State College, PA
+- [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), January 3-6, 2024, San Francisco, CA
+- MathFest, August 7-10, 2024, Indianapolis, IN
+- [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, OR
+- [ECOTS](https://www.causeweb.org/cause/ecots/ecots24), May 28-May 31, 2024, State College, PA
 - [CAUSE events](https://causeweb.org/cause/events)
-
