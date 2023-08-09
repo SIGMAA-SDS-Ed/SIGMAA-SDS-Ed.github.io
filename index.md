@@ -27,7 +27,7 @@ The Hogg Award provides recognition to an individual who has shown both excellen
 
 The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged.
 
-- [Award Nomination Information](https://drive.google.com/file/d/18KjIFQwXW9TRJPSc1vuq1PpY4Iif2Cxg/view?usp=sharing)
+- [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
 
 ## Awards
