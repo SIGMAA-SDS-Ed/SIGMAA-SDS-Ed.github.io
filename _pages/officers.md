@@ -7,7 +7,7 @@ permalink: /officers
 ---
 
 | Chair |  Helen Burn ([email](mailto:HBURN@highline.edu)) |
-|Chair-Elect | Troy Riggs ([email](mailto:triggs@uu.edu)|
+|Chair-Elect | Troy Riggs ([email](mailto:triggs@uu.edu))|
 | Secretary/Treasurer | Tiffany Kolba ([email](mailto:tiffany.kolba@valpo.edu)) |
 |Program Chair | Melissa Innerst ([email](mailto:melissaninnerst@gmail.com))|
 | Past Chair | Lisa Carnell ([email](mailto:lcarnell@highpoint.edu))|
