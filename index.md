@@ -23,9 +23,9 @@ We will be holding elections for Chair-Elect (1 year) and Secretary-Treasurer (2
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
-The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually at MathFest. Nomination packets should be submitted to Lisa Carnell, Chair of the Award Committee, at [lcarnell@highpoint.edu](mailto:lcarnell@highpoint.edu).
+The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2024 should be submitted to Jeremy Case, Chair of the Award Committee, at [jrcase@taylor.edu](mailto:jrcase@taylor.edu).
 
-The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged.
+The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2024**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
 
 - [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
