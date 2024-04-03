@@ -32,9 +32,14 @@ The winner of the Hogg Award will have been teaching introductory statistics at 
 
 ## Awards
 
-Congratulations to Dr. Kim Roth from Juniata College for receiving the 2022 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at Mathfest 2022!
+Congratulations to **Dr. Kaitlyn Fitzgerald** from Azusa Pacific University for receiving the 2023 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at MathFest 2023!
 
-Congratulations to Dr. Diana Skrzydlo from the University of Waterloo for receiving the 2022 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
+Congratulations to **Dr. Daniel Showalter** from Eastern Mennonite University for receiving the 2023 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
+
+[Link to the full announcement](Hogg_award/Hogg-Announcement-Award-Announcement-2023.docx)
+
+<p style="display: flex; flex-direction: row; gap: 50px; height: 250px; justify-content: center"><img src="assets/Fitzgerald_Katie.jpeg" alt="Dr. Kaitlyn Fitzgerald" title="Dr. Kaitlyn Fitzgerald"  height="200" style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
+<img src="assets/Showalter.jpg" alt="Dr. Daniel Showalter" title="Dr. Daniel Showalter"  height="200"  style="border: 2px solid #232222; padding: 1px; background-color: lightgray;"></p>
 
 [Past Award Winners](/awards)
 
