@@ -47,7 +47,7 @@ Congratulations to **Dr. Daniel Showalter** from Eastern Mennonite University fo
 
 - [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/), August 5-10, 2023, Toronto, Ontario, Canada
 - [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), January 3-6, 2024, San Francisco, CA
-- MathFest, August 7-10, 2024, Indianapolis, IN
+- [MathFest](https://maa.org/meetings/maa-mathfest), August 7-10, 2024, Indianapolis, IN
 - [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, OR
 - [ECOTS](https://www.causeweb.org/cause/ecots/ecots24), May 28-May 31, 2024, State College, PA
 - [CAUSE events](https://causeweb.org/cause/events)
