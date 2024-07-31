@@ -19,7 +19,10 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
-We will be holding elections for Chair-Elect (1 year) and Secretary-Treasurer (2 years, elected in even years) in the Fall 2023 – please consider running for office or nominating a colleague. New terms begin January 1.
+The section will be holding two events at the upcoming [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
+
+- A **contributed paper session** on *Community-Focused Experiences in the Statistics or Data Science Classroom* will be held at 4:00pm-5:55pm.
+- The **section business meeting** will immediately follow the session at 6pm-7:30pm and will include a presentation from Dr. Sarah Kessler of the Indiana Fever titled *Performance Analytics in Professional Basketball*.
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
@@ -45,9 +48,10 @@ Congratulations to **Dr. Daniel Showalter** from Eastern Mennonite University fo
 
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
-- [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/), August 5-10, 2023, Toronto, Ontario, Canada
-- [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), January 3-6, 2024, San Francisco, CA
-- [MathFest](https://maa.org/meetings/maa-mathfest), August 7-10, 2024, Indianapolis, IN
-- [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, OR
-- [ECOTS](https://www.causeweb.org/cause/ecots/ecots24), May 28-May 31, 2024, State College, PA
+- [MathFest 2024](https://maa.org/meetings/maa-mathfest), August 7-10, 2024, Indianapolis, IN
+- [Joint Statistical Meetings 2024](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, OR
+- [Joint Mathematics Meetings 2025](https://jointmathematicsmeetings.org/jmm), January 8-11, 2025, Seattle, WA
+- [USCOTS 2025](https://www.causeweb.org/cause/uscots/uscots25), July 17-19, 2025, Ames, Iowa
+- [Joint Statistical Meetings 2025](https://ww2.amstat.org/meetings/jsm/2025/), August 2-7, 2025, Nashville, TN
+- [MathFest 2025](https://maa.org/meetings/maa-mathfest), August 6-9, 2025, Sacramento, CA
 - [CAUSE events](https://causeweb.org/cause/events)
