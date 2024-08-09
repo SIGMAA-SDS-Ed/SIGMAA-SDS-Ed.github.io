@@ -5,6 +5,7 @@ permalink: /communications
 
 ## Minutes
 
+- [2022](/minutes/minutes2022.pdf)
 - [2021](/minutes/minutes2021.pdf)
 - [2020](/minutes/minutes2020.pdf)
 - [2019](/minutes/minutes2019.pdf)
