@@ -19,10 +19,12 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
-The section will be holding two events at the upcoming [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
+The section will [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
 
-- A **contributed paper session** on *Community-Focused Experiences in the Statistics or Data Science Classroom* will be held at 4:00pm-5:55pm.
-- The **section business meeting** will immediately follow the session at 6pm-7:30pm and will include a presentation from Dr. Sarah Kessler of the Indiana Fever titled *Performance Analytics in Professional Basketball*.
+- A **contributed paper session** on *Community-Focused Experiences in the Statistics or Data Science Classroom*.
+- The **section business meeting**, including a presentation from Dr. Sarah Kessler of the Indiana Fever on *Performance Analytics in Professional Basketball*.
+
+[See this post for presentation slides and photos]({% post_url 2024-08-09-mathfest-2024 %})
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
