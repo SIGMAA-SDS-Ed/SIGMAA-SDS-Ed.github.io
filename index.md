@@ -9,6 +9,17 @@ header:
   overlay_image: /assets/luke-chesser-JKUTrJ4vK00-unsplash.jpg
   overlay_filter: 0.4
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+carousels:
+  - images:
+    - image: /assets/mathfest2024/officers-plus-winner-2024.png
+    - image: /assets/mathfest2024/business-meeting-2024.png
+    - image: /assets/mathfest2024/officers-2024.png
+    - image: /assets/mathfest2024/speaker-2024-start.png
+    - image: /assets/mathfest2024/speaker-start-2.png
+    - image: /assets/mathfest2024/speaker-2024.png
+    - image: /assets/mathfest2024/speaker-2024-thanks.png
+    - image: /assets/mathfest2024/room-2024.png
+    - image: /assets/mathfest2024/officers-speaker-2024.png
 ---
 
 ## Welcome
@@ -19,12 +30,14 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
-The section will [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
+The section [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
 
 - A **contributed paper session** on *Community-Focused Experiences in the Statistics or Data Science Classroom*.
 - The **section business meeting**, including a presentation from Dr. Sarah Kessler of the Indiana Fever on *Performance Analytics in Professional Basketball*.
 
 [See this post for presentation slides and photos]({% post_url 2024-08-09-mathfest-2024 %})
+
+{% include carousel._html height="50" unit="%" duration="5" number="1" scaling="0.8" %}
 
 ## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
