@@ -30,6 +30,39 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
+### Awards
+
+Congratulations to **Shonda Kuiper**, Grinnell College, for receiving the 2024 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at MathFest 2024!
+
+Congratulations to **Dr. Shu-Min Liao**, Assistant Professor of Statistics at Amherst College, for receiving the 2024 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
+
+<!-- [Link to the full announcement](Hogg_award/Hogg-Announcement-Award-Announcement-2023b.docx) -->
+
+<p style="display: flex; flex-direction: row; gap: 50px; height: 250px; justify-content: center">
+<img src="assets/ShondaKuiper.jpg" alt="Dr. Shonda Kuiper, recipient of the 2024 Dexter C. Whittinghill III award" title="Dr. Shonda Kuiper"  height="200"  style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
+<img src="assets/ShuMinLiao.png" alt="Dr. Shu-Min Liao, recipient of the 2024 Robert V. Hogg Award" title="Dr. Shu-Min Liao"  height="200" style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
+</p>
+
+[Past Award Winners](/awards)
+
+### JMM 2025
+
+The section is organizing a [panel](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11019) on Friday, January 10, 10:30 AM - 12:00 PM, titled [*SIGMAA Statistics and Data Science Education Panel: Navigating the Frontier: Statistics, Data Science, and AI in the First Two Years of College*](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11019).
+
+Moderator
+: *Helen Burn*, Chair SIGMAA Statistics and Data Science Education
+
+Panelists
+: - *Patti Frazer Lock*, St. Lawrence University
+  - *Jamie Perrett*, Brigham Young University
+  - *Kelly McConville*, Bucknell University
+  - *Victor Piercey*, Ferris State University
+
+Description
+: The fast-evolving educational landscape, particularly in statistics, data science, and AI, underscores the importance of integrating these subjects in the first two years of college. This panel convenes experts to explore teaching challenges and opportunities, emphasizing early college courses. Attendees will gain insights into curriculum design and teaching methods, preparing students for success in a data-driven society.
+
+
+### MathFest 2024
 The section [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathFest 2024](https://maa.org/meetings/maa-mathfest), on Friday, Aug 9 in room 309-310:
 
 - A **contributed paper session** on *Community-Focused Experiences in the Statistics or Data Science Classroom*.
@@ -47,19 +80,6 @@ The winner of the Hogg Award will have been teaching introductory statistics at 
 
 - [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
-
-## Awards
-
-Congratulations to **Dr. Kaitlyn Fitzgerald** from Azusa Pacific University for receiving the 2023 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at MathFest 2023!
-
-Congratulations to **Dr. Daniel Showalter** from Eastern Mennonite University for receiving the 2023 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
-
-[Link to the full announcement](Hogg_award/Hogg-Announcement-Award-Announcement-2023b.docx)
-
-<p style="display: flex; flex-direction: row; gap: 50px; height: 250px; justify-content: center"><img src="assets/Fitzgerald_Katie.jpeg" alt="Dr. Kaitlyn Fitzgerald" title="Dr. Kaitlyn Fitzgerald"  height="200" style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
-<img src="assets/Showalter.jpg" alt="Dr. Daniel Showalter" title="Dr. Daniel Showalter"  height="200"  style="border: 2px solid #232222; padding: 1px; background-color: lightgray;"></p>
-
-[Past Award Winners](/awards)
 
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
