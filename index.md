@@ -83,8 +83,6 @@ The winner of the Hogg Award will have been teaching introductory statistics at 
 
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
-- [MathFest 2024](https://maa.org/meetings/maa-mathfest), August 7-10, 2024, Indianapolis, IN
-- [Joint Statistical Meetings 2024](https://ww2.amstat.org/meetings/jsm/2024/), August 3-8, 2024, Portland, OR
 - [Joint Mathematics Meetings 2025](https://jointmathematicsmeetings.org/jmm), January 8-11, 2025, Seattle, WA
 - [USCOTS 2025](https://www.causeweb.org/cause/uscots/uscots25), July 17-19, 2025, Ames, Iowa
 - [Joint Statistical Meetings 2025](https://ww2.amstat.org/meetings/jsm/2025/), August 2-7, 2025, Nashville, TN
