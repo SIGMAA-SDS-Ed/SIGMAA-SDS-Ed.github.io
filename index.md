@@ -30,6 +30,15 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
+### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
+
+The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2025 should be submitted to Helen Burn, Chair of the Award Committee, at [hburn@highline.edu](mailto:hburn@highline.edu).
+
+The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2025**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
+
+- [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
+- [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
+
 ### Awards
 
 Congratulations to **Shonda Kuiper**, Grinnell College, for receiving the 2024 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at MathFest 2024!
@@ -71,15 +80,6 @@ The section [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathF
 [See this post for presentation slides and photos]({% post_url 2024-08-09-mathfest-2024 %})
 
 {% include carousel._html height="50" unit="%" duration="5" number="1" scaling="0.8" %}
-
-## Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
-
-The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2024 should be submitted to Jeremy Case, Chair of the Award Committee, at [jrcase@taylor.edu](mailto:jrcase@taylor.edu).
-
-The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2024**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
-
-- [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
-- [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
 
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
