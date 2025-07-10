@@ -30,6 +30,22 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
+### Mathfest 2025
+
+The section will be hosting [two main events](https://maa.org/events/mathfest-mathematical-sessions/sigmaa-activities/#SDS-ED) during [MathFest 2025](https://maa.org/events/mathfest-mathematical-sessions/):
+
+- The **SIGMAA SDS-Ed Business Meeting** will be held on Friday, August 8 at 6:30 PM – 7:30 PM in Ballroom A9-10
+- A [contributed paper session](https://maa.org/events/mathfest-mathematical-sessions/contributed-paper-sessions/#CPS1) on **Advancing Data Science Education: Integrating Pedagogical Innovation with Ethical Practice.** will be held on Thursday, August 7, 8:00 AM – 9:55 AM at Ballroom B, SAFE Credit Union Convention Center. The schedule is as follows:
+
+  |8:00–8:19 AM | Enhancing Data Science Education Through CURE-E Projects| Jing   Guo|
+  |8:19–8:38 AM | Interdisciplinary Ethics in Data Science  |Jo Hardin|
+  |8:38–8:57 AM | Student-Driven Data Projects  |Md Sazib Hasan|
+  |8:57–9:16 AM | Election Day 2024: Exit-Polling in an Introductory Course |Russ Goodman|
+  |9:16–9:35 AM | Cultivating Positive Dispositions and Interest Through Community Work |Babette Benken|
+  |9:35–9:54 AM | AI Enhanced Data Science Education by |Luella Fu|
+- In addition, Immanuel Williams is hosting a [workshop](https://maa.org/events/mathfest-mathematical-sessions/workshops/#Workshop16) on **Leveraging APIs: Improving the Data We Bring to Students** on Friday, August 8, 5:00 pm – 6:20 pm in Meeting Room 4
+
+
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
 The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2025 should be submitted to Helen Burn, Chair of the Award Committee, at [hburn@highline.edu](mailto:hburn@highline.edu).
@@ -56,19 +72,7 @@ Congratulations to **Dr. Shu-Min Liao**, Assistant Professor of Statistics at Am
 
 ### JMM 2025
 
-The section is organizing a [panel](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11019) on Friday, January 10, 10:30 AM - 12:00 PM, titled [*SIGMAA Statistics and Data Science Education Panel: Navigating the Frontier: Statistics, Data Science, and AI in the First Two Years of College*](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11019).
-
-Moderator
-: *Helen Burn*, Chair SIGMAA Statistics and Data Science Education
-
-Panelists
-: - *Patti Frazer Lock*, St. Lawrence University
-  - *Jamie Perrett*, Brigham Young University
-  - *Kelly McConville*, Bucknell University
-  - *Victor Piercey*, Ferris State University
-
-Description
-: The fast-evolving educational landscape, particularly in statistics, data science, and AI, underscores the importance of integrating these subjects in the first two years of college. This panel convenes experts to explore teaching challenges and opportunities, emphasizing early college courses. Attendees will gain insights into curriculum design and teaching methods, preparing students for success in a data-driven society.
+The section organized a [panel]({% post_url 2025-01-10-jmm-2025 %}) on Friday, January 10, 10:30 AM - 12:00 PM, titled *SIGMAA Statistics and Data Science Education Panel: Navigating the Frontier: Statistics, Data Science, and AI in the First Two Years of College*. Details can be found on the linked post.
 
 
 ### MathFest 2024
