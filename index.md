@@ -87,8 +87,8 @@ The section [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathF
 
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
-- [Joint Mathematics Meetings 2025](https://jointmathematicsmeetings.org/jmm), January 8-11, 2025, Seattle, WA
 - [USCOTS 2025](https://www.causeweb.org/cause/uscots/uscots25), July 17-19, 2025, Ames, Iowa
 - [Joint Statistical Meetings 2025](https://ww2.amstat.org/meetings/jsm/2025/), August 2-7, 2025, Nashville, TN
 - [MathFest 2025](https://maa.org/meetings/maa-mathfest), August 6-9, 2025, Sacramento, CA
+- [Joint Mathematics Meetings 2026](https://jointmathematicsmeetings.org/jmm), January 4-7, 2026, Washington, DC
 - [CAUSE events](https://causeweb.org/cause/events)
