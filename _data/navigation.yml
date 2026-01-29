@@ -2,6 +2,9 @@ main:
   - title: Home
     url: index
     description: The SIGMAA main page
+  - title: Awards
+    url: awards
+    description: The awards given by the SIGMAA
   - title: Charter
     url: charter
     description: The SIGMAA Charter

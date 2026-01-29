@@ -30,45 +30,39 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
-### Mathfest 2025
-
-The section will be hosting [two main events](https://maa.org/events/mathfest-mathematical-sessions/sigmaa-activities/#SDS-ED) during [MathFest 2025](https://maa.org/events/mathfest-mathematical-sessions/):
-
-- The **SIGMAA SDS-Ed Business Meeting** will be held on Friday, August 8 at 6:30 PM – 7:30 PM in Ballroom A9-10
-- A [contributed paper session](https://maa.org/events/mathfest-mathematical-sessions/contributed-paper-sessions/#CPS1) on **Advancing Data Science Education: Integrating Pedagogical Innovation with Ethical Practice.** will be held on Thursday, August 7, 8:00 AM – 9:55 AM at Ballroom B, SAFE Credit Union Convention Center. The schedule is as follows:
-
-  |8:00–8:19 AM | Enhancing Data Science Education Through CURE-E Projects| Jing   Guo|
-  |8:19–8:38 AM | Interdisciplinary Ethics in Data Science  |Jo Hardin|
-  |8:38–8:57 AM | Student-Driven Data Projects  |Md Sazib Hasan|
-  |8:57–9:16 AM | Election Day 2024: Exit-Polling in an Introductory Course |Russ Goodman|
-  |9:16–9:35 AM | Cultivating Positive Dispositions and Interest Through Community Work |Babette Benken|
-  |9:35–9:54 AM | AI Enhanced Data Science Education by |Luella Fu|
-- In addition, Immanuel Williams is hosting a [workshop](https://maa.org/events/mathfest-mathematical-sessions/workshops/#Workshop16) on **Leveraging APIs: Improving the Data We Bring to Students** on Friday, August 8, 5:00 pm – 6:20 pm in Meeting Room 4
-
-
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
-The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2025 should be submitted to Helen Burn, Chair of the Award Committee, at [hburn@highline.edu](mailto:hburn@highline.edu).
+The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2026 should be submitted to Helen Burn, Chair of the Award Committee, at [hburn@highline.edu](mailto:hburn@highline.edu).
 
-The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2025**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
+The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2026**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
 
 - [Award Nomination Information](https://docs.google.com/document/d/1lQmHzuSOLMG9oN2qz0BoWBinmo8KUO6aC0W9Hkgu0cM/edit?usp=sharing)
 - [Nomination Cover Sheet](/Hogg_award/SIGMAA-Award-Nomination-Cover-Sheet.pdf)
 
 ### Awards
 
-Congratulations to **Shonda Kuiper**, Grinnell College, for receiving the 2024 Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education at MathFest 2024!
+We are pleased to announce the recipients of two prestigious awards from the SIGMAA on Statistics and Data Science Education. The awards will be presented at MathFest 2026.
 
-Congratulations to **Dr. Shu-Min Liao**, Assistant Professor of Statistics at Amherst College, for receiving the 2024 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics!
+Congratulations to **Dr. Judith Canner**, Professor of Statistics at California State University Monterey Bay, for receiving the 2025 *Robert V. Hogg Award for Excellence in Teaching Introductory Statistics*! Dr. Canner has made significant contributions to our field and is a deserving recipient of this recognition, awarded to individuals demonstrating both excellence and growth in teaching introductory statistics at the college level.
 
-<!-- [Link to the full announcement](Hogg_award/Hogg-Announcement-Award-Announcement-2023b.docx) -->
+Congratulations also to **Dr. Jo Hardin**, Professor of Mathematics and Statistics at Pomona College, for receiving the 2025 *Dexter C. Whittinghill III Award for Outstanding Contributed Paper in Statistics Education* at MathFest 2025! Their paper, titled Interdisciplinary Ethics in Data Science, focuses on a unique data science minor capstone course dedicated entirely to interdisciplinary ethics. Dr. Hardin’s outstanding presentation can be found here.
 
 <p style="display: flex; flex-direction: row; gap: 50px; height: 250px; justify-content: center">
-<img src="assets/ShondaKuiper.jpg" alt="Dr. Shonda Kuiper, recipient of the 2024 Dexter C. Whittinghill III award" title="Dr. Shonda Kuiper"  height="200"  style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
-<img src="assets/ShuMinLiao.png" alt="Dr. Shu-Min Liao, recipient of the 2024 Robert V. Hogg Award" title="Dr. Shu-Min Liao"  height="200" style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
+<img src="assets/award_winners/hogg/judith-canner-cropped.png" alt="Dr. Judith Canner, recipient of the 2024 Robert V. Hogg Award" title="Dr. Judith Canner"  height="200"  style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
+<img src="assets/award_winners/whittinghill/jo-hardin.jpg" alt="Dr. Jo Hardin, recipient of the 2025 Dexter C. Whittinghill III award" title="Dr. Jo Hardin"  height="200" style="border: 2px solid #232222; padding: 1px; background-color: lightgray;">
 </p>
 
 [Past Award Winners](/awards)
+
+### Mathfest 2025
+
+The section hosted [two main events]({% post_url 2025-08-09-mathfest-2025 %})  during Mathfest 2025
+
+- The **SIGMAA SDS-Ed Business Meeting**
+- A contributed paper session on **Advancing Data Science Education: Integrating Pedagogical Innovation with Ethical Practice.**
+
+[See this post for presentation slides and photos]({% post_url 2025-08-09-mathfest-2025 %})
+
 
 ### JMM 2025
 
