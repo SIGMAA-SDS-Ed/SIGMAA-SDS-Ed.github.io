@@ -28,6 +28,8 @@ The purpose of this SIGMAA is to facilitate the exchange of ideas about teaching
 
 The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill III Award at the SIGMAA business meeting at MathFest annually.
 
+Announcements and discussions take place in the [SIGMAA SDS-ED MAA Connect Community](https://connect.maa.org/communities/community-home?CommunityKey=91c1fcc8-25ca-4967-abbc-1220539039f1)
+
 ## News
 
 ### MathFest 2026
