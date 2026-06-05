@@ -30,6 +30,13 @@ The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill
 
 ## News
 
+### MathFest 2026
+
+The section will hold two events during [MathFest 2026](https://maa.org/events/mathfest-program/) in Boston. Days and times are yet to be determined.
+
+1. A [contributed paper session](https://maa.org/events/mathfest-program/contributed-paper-sessions/) titled *Navigating and Pivoting: Addressing the Data Science Conundrum in Mathematics Departments*. The session explores the organizational, pedagogical, and curricular approaches faculty employ as data science initiatives reshape what it means to teach and lead within mathematics. Following the 15-minute presentations, the session will conclude with a moderated panel discussion featuring selected presenters and invited panelists. The panel will synthesize key themes and foster audience participation in a collaborative exploration of how mathematics departments can best respond to the evolving data science landscape.
+2. Our [annual business meeting](https://maa.org/events/mathfest-program/sigmaa-activities/) will include a short presentation by [Dennis Sun (Stanford University)](https://dlsun.github.io/) titled *Current Directions in Data Science Education*. Dr. Sun will provide an accessible overview of recent work and current thinking in data science and statistics education, with an emphasis on instructional innovation and future challenges. The presentation is intentionally informal and designed to foster conversation rather than deliver a traditional research talk.
+
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
 The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2026 should be submitted to Helen Burn, Chair of the Award Committee, at [hburn@highline.edu](mailto:hburn@highline.edu).
