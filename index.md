@@ -26,7 +26,7 @@ carousels:
 
 The purpose of this SIGMAA is to facilitate the exchange of ideas about teaching statistics and data science, the undergraduate statistics and data science curricula and all other issues related to providing students with effective and engaging encounters with these topics in their courses of study.  We also hope to foster increased understanding of statistics and data science among members of the MAA, promote the discipline of statistics and data science among students, and work cooperatively with other organizations to encourage effective teaching and learning of statistics and data science.
 
-The SIGMAA SDS-Ed awards the Robert V. Hogg Award and the Dexter C. Whittinghill III Award at the SIGMAA business meeting at MathFest annually.
+The SIGMAA SDS-Ed awards the [Robert V. Hogg Award and the Dexter C. Whittinghill III Award](#nominations-open-for-the-robert-v-hogg-award-for-excellence-in-teaching-introductory-statistics) at the SIGMAA business meeting at MathFest annually.
 
 Announcements and discussions take place in the [SIGMAA SDS-ED MAA Connect Community](https://connect.maa.org/communities/community-home?CommunityKey=91c1fcc8-25ca-4967-abbc-1220539039f1)
 
@@ -34,15 +34,23 @@ Announcements and discussions take place in the [SIGMAA SDS-ED MAA Connect Commu
 
 ### MathFest 2026
 
-The section will hold two events during [MathFest 2026](https://maa.org/events/mathfest-program/) in Boston. Days and times are yet to be determined.
+The section will hold three events during [MathFest 2026](https://maa.org/events/mathfest-program/) in Boston. Days and times are yet to be determined.
 
-1. A [contributed paper session](https://maa.org/events/mathfest-program/contributed-paper-sessions/) titled *Navigating and Pivoting: Addressing the Data Science Conundrum in Mathematics Departments*. The session explores the organizational, pedagogical, and curricular approaches faculty employ as data science initiatives reshape what it means to teach and lead within mathematics. Following the 15-minute presentations, the session will conclude with a moderated panel discussion featuring selected presenters and invited panelists. The panel will synthesize key themes and foster audience participation in a collaborative exploration of how mathematics departments can best respond to the evolving data science landscape.
+1. A [contributed paper session](https://maa.org/events/mathfest-program/contributed-paper-sessions/) titled *Navigating and Pivoting: Addressing the Data Science Conundrum in Mathematics Departments* will take place on **August 8, 8:00am -- 10:45am in Salon J**. The session explores the organizational, pedagogical, and curricular approaches faculty employ as data science initiatives reshape what it means to teach and lead within mathematics. Following the 15-minute presentations, the session will conclude with a moderated panel discussion featuring selected presenters and invited panelists. The panel will synthesize key themes and foster audience participation in a collaborative exploration of how mathematics departments can best respond to the evolving data science landscape.
 2. Our [annual business meeting](https://maa.org/events/mathfest-program/sigmaa-activities/) will include a short presentation by [Dennis Sun (Stanford University)](https://dlsun.github.io/) titled *Current Directions in Data Science Education*. Dr. Sun will provide an accessible overview of recent work and current thinking in data science and statistics education, with an emphasis on instructional innovation and future challenges. The presentation is intentionally informal and designed to foster conversation rather than deliver a traditional research talk.
+3. Immanuel Williams is offering a [minicourse](https://maa.org/events/mathfest-program/minicourses/) on *Integrating APIs into Data Science Education: Teaching Math and Statistics by Learning How Weather APIs Work*:
 
-Immanuel Williams is also offering a [minicourse](https://maa.org/events/mathfest-program/minicourses/) on *Integrating APIs into Data Science Education: Teaching Math and Statistics by Learning How Weather APIs Work*:
+   - Part A: Thursday, August 6, 8:00 AM – 9:50 AM
+   - Part B: Friday, August 7, 10:00 AM – 11:50 AM
 
-- Part A: Thursday, August 6, 8:00 AM – 9:50 AM
-- Part B: Friday, August 7, 10:00 AM – 11:50 AM
+### SIGMAA-sponsored conference presentations
+
+- International Conference on Teaching Statistics (ICOTS).
+
+    Presentation on ETV titled *LFM vs. ETV: Teaching Frameworks for Data Science*. Brisbane, Australia, July 13, 2026, 14:00 GMT+10..
+- Joint Statistical Meetings (JSM 2026)
+
+    Presentation on data science and AI titled *The AI Advantage: Revolutionizing Statistics & Data Science Education Through Prompt Engineering*. Boston, MA, August 2026
 
 
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
