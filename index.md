@@ -39,6 +39,12 @@ The section will hold two events during [MathFest 2026](https://maa.org/events/m
 1. A [contributed paper session](https://maa.org/events/mathfest-program/contributed-paper-sessions/) titled *Navigating and Pivoting: Addressing the Data Science Conundrum in Mathematics Departments*. The session explores the organizational, pedagogical, and curricular approaches faculty employ as data science initiatives reshape what it means to teach and lead within mathematics. Following the 15-minute presentations, the session will conclude with a moderated panel discussion featuring selected presenters and invited panelists. The panel will synthesize key themes and foster audience participation in a collaborative exploration of how mathematics departments can best respond to the evolving data science landscape.
 2. Our [annual business meeting](https://maa.org/events/mathfest-program/sigmaa-activities/) will include a short presentation by [Dennis Sun (Stanford University)](https://dlsun.github.io/) titled *Current Directions in Data Science Education*. Dr. Sun will provide an accessible overview of recent work and current thinking in data science and statistics education, with an emphasis on instructional innovation and future challenges. The presentation is intentionally informal and designed to foster conversation rather than deliver a traditional research talk.
 
+Immanuel Williams is also offering a [minicourse](https://maa.org/events/mathfest-program/minicourses/) on *Integrating APIs into Data Science Education: Teaching Math and Statistics by Learning How Weather APIs Work*:
+
+- Part A: Thursday, August 6, 8:00 AM – 9:50 AM
+- Part B: Friday, August 7, 10:00 AM – 11:50 AM
+
+
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
 The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2026 should be submitted to Troy Riggs, Chair of the Award Committee, at [triggs@uu.edu](mailto:triggs@uu.edu).
@@ -91,6 +97,7 @@ The section [held two events]({% post_url 2024-08-09-mathfest-2024 %}) at [MathF
 ## Future Conferences of Interest to SIGMAA-SDS-Ed Members
 
 - [eCOTS 2026](https://www.causeweb.org/cause/ecots/ecots26), June 15-18, 2026
+- [ICOTS 12](https://icots12.oa-event.com/), July 12-17, 2026, Brisbane, Australia
 - [Joint Statistical Meetings 2026](https://ww2.amstat.org/meetings/jsm/2026/), August 1-6, 2026, Boston, MA
 - [MathFest 2026](https://maa.org/meetings/maa-mathfest), August 5-8, 2025, Boston, MA
 - [Joint Mathematics Meetings 2027](https://jointmathematicsmeetings.org/jmm), January 12-15, 2027, Chicago, IL
