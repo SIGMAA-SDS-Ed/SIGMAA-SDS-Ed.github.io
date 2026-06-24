@@ -55,7 +55,7 @@ The section will hold three events during [MathFest 2026](https://maa.org/events
 
 ### Nominations Open for the Robert V. Hogg Award for Excellence in Teaching Introductory Statistics
 
-The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2026 should be submitted to Helen Burn, Chair of the Award Committee, at [email](mailto:HBURN@highline.edu).
+The Hogg Award provides recognition to an individual who has shown both excellence and growth in teaching introductory statistics at the college level. This award is presented annually in August at MathFest. Nomination packets for 2026 should be submitted to Helen Burn, Chair of the Award Committee at [HBURN@highline.edu](mailto:HBURN@highline.edu).
 
 The winner of the Hogg Award will have been teaching introductory statistics at the college level for 3 to 15 years and hold active membership with the MAA. Nominations of faculty coming from a mathematics background are especially encouraged, although all eligible candidates are encouraged to apply. The deadline for submitting nomination packets is **September 30, 2026**; nominations are held in consideration for 3 years, but updated nomination packets are encouraged. Please note nominees must be **MAA members** at time of nomination.
 
