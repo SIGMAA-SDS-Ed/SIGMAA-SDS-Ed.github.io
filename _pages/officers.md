@@ -6,9 +6,9 @@ title: Officers
 permalink: /officers
 ---
 
-| Chair | Troy Riggs ([email](mailto:triggs@uu.edu))  |
-|Chair-Elect | Arnold Ayap ([email](mailto:nativsd@yahoo.com)) |
+| Chair | Helen Burn ([email](mailto:HBURN@highline.edu))  |
+|Chair-Elect | Immanuel Williams ([email](mailto:imwillia@calpoly.edu)) |
 | Secretary/Treasurer | Tiffany Kolba ([email](mailto:tiffany.kolba@valpo.edu)) |
 |Program Chair | Immanuel Williams ([email](mailto:imwillia@calpoly.edu)) |
-| Past Chair | Helen Burn ([email](mailto:HBURN@highline.edu))|
+| Past Chair | Troy Riggs ([email](mailto:triggs@uu.edu))|
 |Webmaster | Haris Skiadas ([email](mailto:skiadas@hanover.edu))|
